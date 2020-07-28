@@ -23,7 +23,41 @@ Android mobile development with java and kotlin.
   
   ---
   
-  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=AdewaleCode&show_icons=true&theme=dark)                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdewaleCode)](https://github.com/anuraghazra/github-readme-stats)
+  ### 🚧 I build with...
+  
+  <p>
+  <a href="https://flutter.dev/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://dartpad.dev/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://developer.android.com/studio">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/tools/android_studio_colour.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.java.com/en/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  </a>
+  
+  
+  ---
+  
+  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=AdewaleCode&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdewaleCode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
