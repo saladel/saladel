@@ -20,6 +20,12 @@ Android mobile development with java and kotlin.
   <a href="https://www.linkedin.com/in/adewale-sanusi-084a54135/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+  
+  ---
+  
+  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=AdewaleCode&show_icons=true&theme=dark)
+
+
 
 
 
