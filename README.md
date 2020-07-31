@@ -2,11 +2,11 @@
 
 ![](https://media.giphy.com/media/VDBaLMiYj4H9SQ6ZVn/giphy.gif)
 
-I am Adewale, here you'll find a small sample of the projects I've worked on over the years with technologies i enjoy. I am a communication engineering student at Covenant University, product manager ([ProductDive](https://twitter.com/ProductDive) alumnus) and mobile developer.
+I am Adewale, here you'll find a small sample of the projects I've worked on over the years with technologies i enjoy. 
 
 ---
 
- ### 🚧 I build with...
+ ### 🚧 I build with:
   
   <p>
   <a href="https://flutter.dev/">
@@ -39,13 +39,15 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
   
   
 ---
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning:
+
 Android mobile development with Java and Kotlin.
 
 
 
 ---
-### 📢 Find me elsewhere
+### 📫 How to reach me:
+
 <p align="start">
   <a href="https://twitter.com/A_4_Ade">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -62,7 +64,7 @@ Android mobile development with Java and Kotlin.
   ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=AdewaleCode&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdewaleCode)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![Profile views](https://gpvc.arturio.dev/AdewaleCode)
 
 
 
