@@ -61,10 +61,10 @@ Android mobile development with Java and Kotlin.
   
  
   
-  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=AdewaleCode&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdewaleCode)](https://github.com/anuraghazra/github-readme-stats)
+  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=9T9AD&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9T9AD)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Profile views](https://gpvc.arturio.dev/AdewaleCode)
+![Profile views](https://gpvc.arturio.dev/9T9AD)
 
 
 
