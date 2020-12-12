@@ -38,7 +38,11 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
 ---
 ### 🌱 I’m currently learning:
 
-Automation with Python and Mobile development using Flutter.
+Automation with <a href="https://www.python.org/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a> and Mobile development using <a href="https://flutter.dev/">
+    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
+  </a>.
 
 
 
