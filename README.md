@@ -32,16 +32,13 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
   <a href="https://www.javascript.com/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
-  
-  <a href="https://www.java.com/en/">
-    <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  </a>
+ 
   
   
 ---
 ### 🌱 I’m currently learning:
 
-Android mobile development with Java and Kotlin.
+Automation with Python and Mobile development using Flutter.
 
 
 
