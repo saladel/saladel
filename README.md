@@ -36,9 +36,6 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
   
   
 ---
-### 🌱 I’m currently learning:
-
-Automation with Python and Cross platform mobile development using Flutter.
 
 
 
