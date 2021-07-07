@@ -28,12 +28,12 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   </a>
-  <!---
+  
   <a href="https://www.javascript.com/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
  
-  --->
+  
   
 ---
 
