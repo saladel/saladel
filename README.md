@@ -9,6 +9,8 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
  ### 🚧 I build with:
   
   <p>
+  
+  <!--
   <a href="https://flutter.dev/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
   </a>
@@ -32,14 +34,15 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
   <a href="https://www.javascript.com/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
- 
+ -->
   
   
 ---
 
-### 🌱 I’m currently learning:
+### 🔭 I’m currently working on:
 
-Automation with Python and Cross platform mobile development using Flutter.
+- Using machine learning to identify plants in Covenant University.
+- Using AR to digitize the physical aspect of things.
 
 
 ---
@@ -58,14 +61,20 @@ Automation with Python and Cross platform mobile development using Flutter.
   
  
   
-  ![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=9T9AD&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9T9AD)](https://github.com/anuraghazra/github-readme-stats)
-
+![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=9T9AD&show_icons=true&theme=dark) 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9T9AD)
+  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/9T9AD)
 
 
 
 <!--
+ (https://github.com/anuraghazra/github-readme-stats)
+
+
 **AdewaleCode/AdewaleCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
