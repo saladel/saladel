@@ -2,15 +2,14 @@
 
 ![](https://media.giphy.com/media/VDBaLMiYj4H9SQ6ZVn/giphy.gif)
 
-I am Adewale, here you'll find a small sample of the projects I've worked on over the years with technologies i enjoy. 
+I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find a small sample of the projects I've worked on over the years with technologies i enjoy. 
 
 ---
-
+<!--
  ### 🚧 I build with:
   
   <p>
   
-  <!--
   <a href="https://flutter.dev/">
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
   </a>
@@ -35,17 +34,14 @@ I am Adewale, here you'll find a small sample of the projects I've worked on ove
     <img src="https://github.com/AdewaleCode/AdewaleCode/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
  -->
-  
-  
----
 
 ### 🔭 I’m currently working on:
 
 - Using machine learning to identify plants in Covenant University.
 - Using AR to digitize the physical aspect of things.
 
-
 ---
+
 ### 📫 How to reach me:
 
 <p align="start">
