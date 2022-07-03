@@ -56,10 +56,9 @@ I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find
   ---
   
  
-  
-![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=9T9AD&show_icons=true&theme=dark) 
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9T9AD)
+ 
+![Adewale's github stats](https://github-readme-stats.vercel.app/api?username=9T9AD&show_icons=true&theme=dark) 
   
  
 
