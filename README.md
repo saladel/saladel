@@ -35,10 +35,9 @@ I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find
   </a>
  -->
 
-### 🔭 I’m currently working on:
+### 🔭 I’m looking to collaborate on:
 
-- Using machine learning to identify plants in Covenant University.
-- Using AR to digitize the physical aspect of things.
+Projects using machine learning and/or VR-AR to solve problems. I find the use of these technologies exciting!
 
 ---
 
@@ -73,6 +72,13 @@ I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find
 **AdewaleCode/AdewaleCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### 🛠️ I’m currently working on:
+
+- Using machine learning to identify plants in Covenant University.
+- Using VR/AR to digitize the physical aspect of things.
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
