@@ -40,7 +40,7 @@ I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find
 Projects using machine learning and/or VR-AR to solve problems. I find the use of these technologies exciting!
 
 ---
-
+<!--
 ### 📫 How to reach me:
 
 <p align="start">
@@ -51,9 +51,9 @@ Projects using machine learning and/or VR-AR to solve problems. I find the use o
   <a href="https://www.linkedin.com/in/adewale-sanusi-084a54135/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-  
+ 
   ---
-  
+  -->
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saladel)
  
