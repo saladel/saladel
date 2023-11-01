@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/VDBaLMiYj4H9SQ6ZVn/giphy.gif)
 
-I am Adewale, I use Swift, SiwftUI and UIKit to build products. Here you'll find a small sample of the projects I've worked on over the years with technologies i enjoy. 
+I am Adewale, I use Swift, SiwftUI and UIKit to build iOS applications; Python and SQL to build, store and manage data piplines.
 
 ---
 <!--
