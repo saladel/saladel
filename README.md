@@ -11,7 +11,7 @@ I'm an iOS Developer and Data Engineer. I'm passionate about building data pipel
 - 🌱 I'm learning Python, SQL, GCP, and Azure.
 - 👨🏾‍💻 I'm seeking help with open-source projects, hackathons, iOS Developer and Data Engineering opportunities.
 - 💼 Job interests: iOS Developer (Junior or Mid-level), Data Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/144jpbtS6Eq79ue6xdwOD2CeD_SsIuQYZ/view?usp=sharing) and contact me by emailing adewalesanusi.a@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1aJlBKhyAgugn-xnCX09nNlCd2e8nDrfz/view?usp=share_link) and contact me by emailing adewalesanusi.a@gmail.com.
 
 ---
 
