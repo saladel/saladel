@@ -9,7 +9,7 @@ I'm an iOS Developer and Data Engineer. I'm passionate about building data pipel
 - **😊 Pronouns**: He/him
 - **💡 Fun fact**: I'm studying at AltSchool Africa [School of Data Engineering](https://data.altschoolafrica.com/programs/data-engineering) Class of 2024.
 - 🌱 I'm learning Python, SQL, GCP, and Azure.
-- **💼 Job interests**: iOS Developer (Junior/Mid-level), Data Engineer (Intern or Junior level).
+- **💼 Job interests**: iOS Developer (Junior/Mid-level), Data Engineer (Intern/Junior level).
 - 📫 You can [**view my resume**](https://drive.google.com/file/d/1aJlBKhyAgugn-xnCX09nNlCd2e8nDrfz/view?usp=share_link) and contact me by emailing **adewalesanusi.a@gmail.com**.
 <!-- - 👨🏾‍💻 I'm seeking help with open-source projects, hackathons, iOS Developer and Data Engineering opportunities.-->
 
