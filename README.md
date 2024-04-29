@@ -17,3 +17,6 @@ I'm an iOS Developer and Data Engineer. I'm passionate about building data pipel
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=saladel&show_icons=true&include_all_commits=true&hide_border=true" alt="Adewale's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saladel&langs_count=8&layout=compact&hide_border=true" alt="Adewale's GitHub stats" /> |
 | ------------- | ------------- |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@saladel&layout=compact&hide_border=true" alt="Adewale's Languages over last 7 days" /> |
+| ------------- |
